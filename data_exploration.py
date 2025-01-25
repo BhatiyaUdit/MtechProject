@@ -44,5 +44,5 @@ def load_meta_data(path_to_explore):
     return meta_data
 
 
-paths = data_exploration()
-meta_data_ = load_meta_data(paths)
+# paths = data_exploration()
+# meta_data_ = load_meta_data(paths)
