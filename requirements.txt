@@ -2,3 +2,5 @@ requests
 tqdm
 opencv-python
 matplotlib
+pandas
+seaborn

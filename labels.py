@@ -99,4 +99,4 @@ label_data = {
     97: ('Giant fennel', (74, 255, 0)),
     98: ('Common horsetail', (10, 255, 0)),
     99: ('Common dandelion', (202, 255, 0)),
-    255: ('Vegetation', (128, 128, 128))}
+    100: ('Vegetation', (128, 128, 128))}
